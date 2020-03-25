@@ -1,0 +1,26 @@
+{
+  "name": "website",
+  "version": "0.0.1",
+  "description": "Nakshatra Mukhopadhyay's personal website.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n0x3u5/website.git"
+  },
+  "keywords": [
+    "website",
+    "portfolio",
+    "n0x3u5",
+    "nakshatra",
+    "mukhopadhyay"
+  ],
+  "author": "Nakshatra Mukhopadhyay",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/n0x3u5/website/issues"
+  },
+  "homepage": "https://github.com/n0x3u5/website#readme"
+}
